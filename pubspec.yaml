@@ -4,13 +4,14 @@ version: 0.1.5
 homepage: https://github.com/55Builds/Flutter-FFNavigationBar
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: '>=2.18.6 <3.0.0'
+
 
 dependencies:
   flutter:
     sdk: flutter
 
-  provider: ^4.0.2
+  provider: ^6.0.5
 
 dev_dependencies:
   flutter_test:
